@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swiftandcode
-- 👀 I’m interested in Computer and Apple devices
+- 👀 I’m interested in Apple devices and Apple software language 
 - 🌱 I’m currently learning Swift and SwiftUI 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
